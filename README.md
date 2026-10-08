@@ -1,96 +1,57 @@
 <div align="center">
 
-# SURENDRA / BUILDING WHAT'S NEXT
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111D3B,70:142B4D,100:00E5FF&text=SURENDRA&fontColor=EAFBFF&fontSize=56&fontAlignY=38&desc=ENGINEERING%20THE%20NEXT%20INTELLIGENCE%20LAYER&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Surendra — Engineering the next intelligence layer" />
 
-### FULL-STACK DEVELOPER · AI SYSTEMS · HUMAN-CENTERED AUTOMATION
+### FULL-STACK ENGINEER · AI SYSTEMS BUILDER
 
-*I turn ambitious ideas into useful software—from autonomous assistants to intelligent tools.*
+**I build intelligent software that turns ambitious ideas into useful systems.**
 
-[EXPLORE MY WORK](#selected-systems) · [LINKEDIN](https://in.linkedin.com/in/surendra2304) · [INSTAGRAM](https://www.instagram.com/anonymous__2304)
+[LinkedIn](https://in.linkedin.com/in/surendra2304) · [Explore my repositories](https://github.com/surendra2304?tab=repositories) · [Live project: Midnight Academy](https://midnight-academy-one.vercel.app)
 
 </div>
 
 ---
 
-## Selected systems
+## `01` &nbsp; SYSTEMS IN THE MAKING
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| PROJECT | WHAT IT DOES | STACK |
+|:--|:--|:--|
+| [**FRIDAY** ↗](https://github.com/surendra2304/FRIDAY) | A multi-agent personal AI exploring voice, vision, memory, and safety-aware automation. | `Python` `AI` |
+| [**INFERENCE** ↗](https://github.com/surendra2304/Inference) | A provider-agnostic intelligence platform where agents debate, check evidence, and synthesize answers. | `Python` `Multi-agent` |
+| [**FORGE** ↗](https://github.com/surendra2304/Forge) | An autonomous software engineering engine that plans, builds, verifies, and repairs artifacts. | `Python` `Agents` |
+| [**STRATEX** ↗](https://github.com/surendra2304/Stratex) | A multi-strategy algorithmic trading system built for Binance Futures Testnet. | `Python` `Quant` |
+| [**MIDNIGHT ACADEMY** ↗](https://github.com/surendra2304/midnight-academy) | An AI-powered platform for understanding and articulating technical problems. | `TypeScript` `Gemini` |
 
-### ◉ FRIDAY / Personal AI, reimagined
-A modular multi-agent assistant exploring voice, screen awareness, persistent memory, and permission-gated tools.
+<div align="center">
 
-`Python` `Multi-agent systems` `Voice & vision`
+**BUILDING AT THE INTERSECTION OF**  `AI` · `FULL-STACK` · `AUTOMATION` · `SYSTEM DESIGN`
 
-[OPEN REPOSITORY →](https://github.com/surendra2304/FRIDAY)
+</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ◈ STRATEX / Strategy meets systems
-A multi-strategy algorithmic trading platform built around research, testing, monitoring, and risk controls.
-
-`Python` `Quant systems` `Testnet`
-
-[OPEN REPOSITORY →](https://github.com/surendra2304/Stratex)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⬡ INFERENCE / Many models. One stronger answer.
-A local-first, provider-agnostic multi-agent platform where specialist agents debate, verify evidence, and synthesize answers.
-
-`Python` `Multi-agent reasoning` `AI infrastructure`
-
-[OPEN REPOSITORY →](https://github.com/surendra2304/Inference)
-
-</td>
-<td width="50%" valign="top">
-
-### △ FORGE / Ideas into verified software
-An autonomous software engineering engine that plans, builds, verifies, and repairs software artifacts.
-
-[OPEN REPOSITORY →](https://github.com/surendra2304/Forge)
-
-</td>
-</tr>
-</table>
-
-### ◌ MIDNIGHT ACADEMY / Think clearly. Explain deeply.
-A live AI-powered platform that assesses how candidates understand and articulate technical problems.
-
-[TRY THE LIVE APP →](https://midnight-academy-one.vercel.app) · [VIEW SOURCE →](https://github.com/surendra2304/midnight-academy)
-
-## Design principles
+## `02` &nbsp; ENGINEERING SIGNAL
 
 ```text
-01 / Build for people        Technology should feel useful, clear, and approachable.
-02 / Make intelligence work  Connect models, tools, and context into real workflows.
-03 / Design for safety       Powerful systems need clear boundaries and controls.
-04 / Keep exploring          Prototype, measure, learn, improve.
+╭─ PRINCIPLE ──────────────────────────────── APPROACH ─╮
+│  Useful intelligence       Build for real workflows   │
+│  Reliable systems          Verify, observe, improve   │
+│  Responsible automation    Keep humans in control    │
+╰───────────────────────────────────────────────────────╯
 ```
 
-## Toolkit / Signals
+### CURRENT TOOLKIT
 
-`Python` · `TypeScript` · `AI & multi-agent systems` · `Full-stack development` · `Automation`
-
-## Find me in the network
-
-**Surendra** · Bhimavaram, Andhra Pradesh  
-[LinkedIn](https://in.linkedin.com/in/surendra2304) · [Instagram](https://www.instagram.com/anonymous__2304) · [All repositories](https://github.com/surendra2304?tab=repositories)
+`Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `FastAPI` &nbsp; `Multi-agent systems` &nbsp; `AI integrations`
 
 ---
 
 <div align="center">
 
-**IDEAS → SYSTEMS → SOFTWARE**  
-*Curious about what we can build next? Let’s connect.*
+### CURIOUS MINDS BUILD THE FUTURE.
+
+**Have an interesting problem? [Let’s connect.](https://in.linkedin.com/in/surendra2304)**
+
+<sub>BHIMAVARAM, INDIA &nbsp;·&nbsp; IDEAS → SYSTEMS → SOFTWARE</sub>
 
 </div>
-
-
-
-
