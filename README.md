@@ -1,56 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:050816,30:101B37,68:12304B,100:00E5FF&text=SURENDRA&fontColor=EAFBFF&fontSize=62&fontAlignY=37&desc=INTELLIGENT%20SYSTEMS.%20REAL-WORLD%20SOFTWARE.&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Surendra — Intelligent systems. Real-world software." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:070B18,30:101B37,68:12304B,100:00E5FF&text=SURENDRA&fontColor=EAFBFF&fontSize=64&fontAlignY=36&desc=ENGINEER%20OF%20INTELLIGENT%20EXPERIENCES&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Surendra — Engineer of intelligent experiences" />
 
 ### FULL-STACK ENGINEER &nbsp;·&nbsp; AI SYSTEMS BUILDER
 
-I design and build **AI-powered products, autonomous software, and useful digital experiences.**
+**Curious by nature. Focused on making technology useful.**
 
-[LinkedIn](https://in.linkedin.com/in/surendra2304) &nbsp;·&nbsp; [All projects](https://github.com/surendra2304?tab=repositories) &nbsp;·&nbsp; [Live demo — Midnight Academy](https://midnight-academy-one.vercel.app)
+I’m Surendra, an engineer from **Bhimavaram, India**. I enjoy turning complex ideas into thoughtful digital experiences—from the first system sketch to the details that make software feel clear and human.
+
+[LINKEDIN](https://in.linkedin.com/in/surendra2304) &nbsp;·&nbsp; [INSTAGRAM](https://www.instagram.com/anonymous__2304) &nbsp;·&nbsp; [SAY HELLO](https://github.com/surendra2304?tab=followers)
 
 </div>
 
 ---
 
-## ◈ AI & INTELLIGENT SYSTEMS
+## `01` &nbsp; WHAT DRIVES ME
 
-| SYSTEM | PURPOSE |
+I’m drawn to the space where **artificial intelligence, product thinking, and full-stack engineering** meet. I like exploring how intelligent systems can collaborate, how good interfaces can make complex tools approachable, and how automation can give people more room to think and create.
+
+My work moves between **AI-powered experiences, autonomous software, and practical web products**. The common thread is curiosity: understand the real problem, shape a useful solution, then keep improving it.
+
+## `02` &nbsp; HOW I THINK
+
+| SIGNAL | PRINCIPLE |
 |:--|:--|
-| [**FRIDAY** ↗](https://github.com/surendra2304/FRIDAY) | A personal AI operating system with multi-agent delegation, voice, vision, memory, and safety-gated tools. |
-| [**INFERENCE** ↗](https://github.com/surendra2304/Inference) | Provider-agnostic multi-agent reasoning with structured debate, evidence checks, and synthesized answers. |
-| [**INTELX** ↗](https://github.com/surendra2304/IntelX) | Evidence-driven research that verifies source claims and produces cited intelligence reports. |
-| [**MEMORA** ↗](https://github.com/surendra2304/Memora) | A multi-tier cognitive memory engine for persistent AI context. |
+| ◈ **Clarity** | Make complex technology easier to understand and use. |
+| ⬡ **Craft** | Sweat the details, from system boundaries to interface polish. |
+| △ **Curiosity** | Learn by building, testing ideas, and following unexpected questions. |
+| ◎ **Responsibility** | Design intelligent tools with thoughtful limits and people in control. |
 
-## ⬡ AUTONOMOUS & OPERATIONAL SYSTEMS
+## `03` &nbsp; MY TOOLKIT
 
-| SYSTEM | PURPOSE |
-|:--|:--|
-| [**FORGE** ↗](https://github.com/surendra2304/Forge) | Plans, builds, verifies, and repairs software from high-level goals. |
-| [**CORTEX** ↗](https://github.com/surendra2304/Cortex) | Autonomous operations intelligence for existing websites and web apps. |
-| [**SENTINEL** ↗](https://github.com/surendra2304/Sentinel) | Auditable tools for authorized cybersecurity assessment and defensive work. |
-| [**FUTURIS** ↗](https://github.com/surendra2304/Futuris) | Calibrated forecasting and predictive decision support with traceable evidence. |
+<div align="center">
 
-## △ PRODUCTS & APPLIED PROJECTS
+`PYTHON` &nbsp; `TYPESCRIPT` &nbsp; `REACT` &nbsp; `FASTAPI`  
+`AI SYSTEMS` &nbsp; `MULTI-AGENT DESIGN` &nbsp; `PRODUCT ENGINEERING`
 
-| PROJECT | PURPOSE |
-|:--|:--|
-| [**MIDNIGHT ACADEMY** ↗](https://github.com/surendra2304/midnight-academy) · [Live app ↗](https://midnight-academy-one.vercel.app) | AI-powered technical comprehension and articulation assessment. |
-| [**STRATEX** ↗](https://github.com/surendra2304/Stratex) | Quantitative trading research with backtesting, forward validation, and risk controls. |
-| [**ORCA** ↗](https://github.com/surendra2304/ORCA) | Multi-agent marine safety and coastal advisory system. |
-| [**CAMPUSCOLLAB** ↗](https://github.com/surendra2304/campuscollab) · [Live app ↗](https://campuscollab-delta.vercel.app) | A collaborative platform for campus communities. |
-| [**KALIGAN AI** ↗](https://github.com/surendra2304/KaliGan-AI-Landing-Page) · [Live app ↗](https://kaligan-ai-landing-page.vercel.app) | Product experience for AI employees across calls, chat, scheduling, and operations. |
-| [**SMART ATTENDANCE** ↗](https://github.com/surendra2304/Student-Attendance-System-Frontlab) | Student attendance system combining a React frontend, Node backend, and Python AI. |
-| [**NGO AWARENESS** ↗](https://github.com/surendra2304/NGO-Awareness-Webpage-Creation) · [Live app ↗](https://ngo-awareness-webpage-creation-in-a.vercel.app) | A web experience for nonprofit and social-impact awareness. |
-| [**ELEMENTUM** ↗](https://github.com/surendra2304/Elementum-Landing-Page) · [Live app ↗](https://trams-assignment-iota.vercel.app) | Landing-page project created for the TRAMS internship assignment. |
+</div>
+
+## `04` &nbsp; OUTSIDE THE TERMINAL
+
+I’m based in **Bhimavaram, Andhra Pradesh**. I value continuous learning, ambitious ideas, and the people who make building together worthwhile. I’m always glad to connect with curious minds and exchange perspectives on technology and what we can create with it.
 
 ---
 
 <div align="center">
 
-### BUILD WITH CURIOSITY. SHIP WITH INTENTION.
+### BUILD THOUGHTFULLY. STAY CURIOUS. MAKE IT MATTER.
 
-`PYTHON` &nbsp; `TYPESCRIPT` &nbsp; `REACT` &nbsp; `FASTAPI` &nbsp; `AI AGENTS` &nbsp; `PRODUCT ENGINEERING`
+**[LET’S CONNECT ON LINKEDIN →](https://in.linkedin.com/in/surendra2304)**
 
-**Bhimavaram, India** &nbsp;·&nbsp; [Connect on LinkedIn](https://in.linkedin.com/in/surendra2304)
+<sub>BHIMAVARAM, INDIA &nbsp;·&nbsp; HUMAN-CENTERED TECHNOLOGY</sub>
 
 </div>
